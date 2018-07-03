@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FileLineCounter
+comment1.params=fileName
+comment1.target=int\ countLines(java.lang.String)
+numComments=2
